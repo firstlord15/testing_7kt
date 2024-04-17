@@ -1,0 +1,12 @@
+INFO ===> Test test_forth_dop_task started at 2024-04-17 14:20:50.554850
+INFO Browser chrome started
+INFO MainPage: Clicking element 'DROPDOWN_TELEPHONE_HTC'
+INFO MainPage: Clicking element 'PRODUCT_TELEPHONE_HTC'
+INFO ProductPage: Clicking element 'BUTTON_BUY'
+INFO ===> Test test_forth_dop_task finished at 2024-04-17 14:21:02.762192
+INFO ===> Test test_forth_dop_task started at 2024-04-17 14:28:46.116847
+INFO Browser chrome started
+INFO MainPage: Clicking element 'DROPDOWN_TELEPHONE_HTC'
+INFO MainPage: Clicking element 'PRODUCT_TELEPHONE_HTC'
+INFO ProductPage: Clicking element 'BUTTON_BUY'
+INFO ===> Test test_forth_dop_task finished at 2024-04-17 14:28:58.103118

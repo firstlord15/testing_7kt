@@ -1,0 +1,14 @@
+INFO ===> Test test_fifth_task started at 2024-04-17 14:20:04.831205
+INFO Browser chrome started
+INFO MainPage: Clicking element 'INPUT_SEARCH'
+INFO MainPage: Clearing input 'INPUT_SEARCH'
+INFO MainPage: Writing 'random text!' in input 'INPUT_SEARCH'
+INFO Press 'Enter'
+INFO ===> Test test_fifth_task finished at 2024-04-17 14:20:18.457635
+INFO ===> Test test_fifth_task started at 2024-04-17 14:28:00.950847
+INFO Browser chrome started
+INFO MainPage: Clicking element 'INPUT_SEARCH'
+INFO MainPage: Clearing input 'INPUT_SEARCH'
+INFO MainPage: Writing 'random text!' in input 'INPUT_SEARCH'
+INFO Press 'Enter'
+INFO ===> Test test_fifth_task finished at 2024-04-17 14:28:14.346507

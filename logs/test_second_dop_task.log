@@ -1,0 +1,12 @@
+INFO ===> Test test_second_dop_task started at 2024-04-17 14:20:25.892115
+INFO Browser chrome started
+INFO MainPage: Clicking element 'PRODUCTS[3]'
+INFO ProductPage: Clicking element 'SELECT_OPTION_COLOR'
+INFO ProductPage: Clicking element 'BUTTON_BUY'
+INFO ===> Test test_second_dop_task finished at 2024-04-17 14:20:38.260853
+INFO ===> Test test_second_dop_task started at 2024-04-17 14:28:21.720499
+INFO Browser chrome started
+INFO MainPage: Clicking element 'PRODUCTS[3]'
+INFO ProductPage: Clicking element 'SELECT_OPTION_COLOR'
+INFO ProductPage: Clicking element 'BUTTON_BUY'
+INFO ===> Test test_second_dop_task finished at 2024-04-17 14:28:33.920345

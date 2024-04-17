@@ -1,0 +1,14 @@
+INFO ===> Test test_fifth_dop_task started at 2024-04-17 14:21:02.763245
+INFO Browser chrome started
+INFO MainPage: Clicking element 'PRODUCTS[0]'
+INFO ProductPage: Clicking element 'BUTTON_REVIEW'
+INFO ProductPage: Clicking element 'INPUT_NAME_REVIEW'
+INFO ProductPage: Clearing input 'INPUT_NAME_REVIEW'
+INFO ProductPage: Writing 'Ratmir' in input 'INPUT_NAME_REVIEW'
+INFO ProductPage: Clicking element 'INPUT_REVIEW'
+INFO ProductPage: Clearing input 'INPUT_REVIEW'
+INFO ProductPage: Writing 'kodfjlkfajfasss nice review' in input 'INPUT_REVIEW'
+INFO ProductPage: Clicking element 'BUTTON_REVIEW_MARK[4]'
+INFO ProductPage: Clicking element 'BUTTON_NEXT_REVIEW'
+INFO ===> Test test_fifth_dop_task finished at 2024-04-17 14:21:32.480221
+INFO ===> Test test_fifth_dop_task started at 2024-04-17 14:28:58.108141

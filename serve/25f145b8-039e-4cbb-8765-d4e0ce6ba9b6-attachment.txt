@@ -1,0 +1,6 @@
+[32mINFO    [0m test_second_dop_task:conftest.py:35 ===> Test test_second_dop_task started at 2024-04-17 14:28:21.720499
+[32mINFO    [0m test_second_dop_task:conftest.py:81 Browser chrome started
+[32mINFO    [0m test_second_dop_task:BasePage.py:63 MainPage: Clicking element 'PRODUCTS[3]'
+[32mINFO    [0m test_second_dop_task:BasePage.py:63 ProductPage: Clicking element 'SELECT_OPTION_COLOR'
+[32mINFO    [0m test_second_dop_task:BasePage.py:63 ProductPage: Clicking element 'BUTTON_BUY'
+[32mINFO    [0m test_second_dop_task:conftest.py:85 ===> Test test_second_dop_task finished at 2024-04-17 14:28:33.920345

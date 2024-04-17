@@ -1,0 +1,7 @@
+[32mINFO    [0m test_fifth_task:conftest.py:35 ===> Test test_fifth_task started at 2024-04-17 14:28:00.950847
+[32mINFO    [0m test_fifth_task:conftest.py:81 Browser chrome started
+[32mINFO    [0m test_fifth_task:BasePage.py:63 MainPage: Clicking element 'INPUT_SEARCH'
+[32mINFO    [0m test_fifth_task:BasePage.py:79 MainPage: Clearing input 'INPUT_SEARCH'
+[32mINFO    [0m test_fifth_task:BasePage.py:85 MainPage: Writing 'random text!' in input 'INPUT_SEARCH'
+[32mINFO    [0m test_fifth_task:BasePage.py:35 Press 'Enter'
+[32mINFO    [0m test_fifth_task:conftest.py:85 ===> Test test_fifth_task finished at 2024-04-17 14:28:14.346507

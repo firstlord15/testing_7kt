@@ -1,0 +1,12 @@
+INFO ===> Test test_second_task started at 2024-04-17 14:18:45.756258
+INFO Browser chrome started
+INFO MainPage: Clicking element 'PRODUCTS_BUTTON_BUY[0]'
+INFO MainPage: Clicking element 'PRODUCTS_BUTTON_BUY[1]'
+INFO MainPage: Clicking element 'BUTTON_CART'
+INFO ===> Test test_second_task finished at 2024-04-17 14:19:00.488370
+INFO ===> Test test_second_task started at 2024-04-17 14:26:41.574245
+INFO Browser chrome started
+INFO MainPage: Clicking element 'PRODUCTS_BUTTON_BUY[0]'
+INFO MainPage: Clicking element 'PRODUCTS_BUTTON_BUY[1]'
+INFO MainPage: Clicking element 'BUTTON_CART'
+INFO ===> Test test_second_task finished at 2024-04-17 14:26:56.231673

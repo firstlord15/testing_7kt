@@ -1,0 +1,14 @@
+INFO ===> Test test_first_task started at 2024-04-17 14:18:28.501728
+INFO Browser chrome started
+INFO MainPage: Clicking element 'PRODUCTS[0]'
+INFO ProductPage: Clicking element 'MAIN_PICTURE'
+INFO ===> Test test_first_task finished at 2024-04-17 14:18:45.750830
+INFO ===> Test test_first_task started at 2024-04-17 14:26:11.405173
+INFO Browser chrome started
+INFO MainPage: Clicking element 'PRODUCTS[0]'
+INFO ===> Test test_first_task finished at 2024-04-17 14:26:18.770830
+INFO ===> Test test_first_task started at 2024-04-17 14:26:24.239449
+INFO Browser chrome started
+INFO MainPage: Clicking element 'PRODUCTS[0]'
+INFO ProductPage: Clicking element 'MAIN_PICTURE'
+INFO ===> Test test_first_task finished at 2024-04-17 14:26:41.563264

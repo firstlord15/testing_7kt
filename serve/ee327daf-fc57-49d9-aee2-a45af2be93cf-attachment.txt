@@ -1,0 +1,5 @@
+[32mINFO    [0m test_third_task:conftest.py:35 ===> Test test_third_task started at 2024-04-17 14:26:56.238044
+[32mINFO    [0m test_third_task:conftest.py:81 Browser chrome started
+[32mINFO    [0m test_third_task:BasePage.py:63 MainPage: Clicking element 'DROPDOWN_PC'
+[32mINFO    [0m test_third_task:BasePage.py:63 MainPage: Clicking element 'LI_PC'
+[32mINFO    [0m test_third_task:conftest.py:85 ===> Test test_third_task finished at 2024-04-17 14:27:05.913493
